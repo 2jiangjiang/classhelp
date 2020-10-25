@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Turquoise">#03DAC5</color>
+    <color name="grey">#a0a0a0</color>
+    <color name="white">#ffffff</color>
+    <color name="Turquoise_transparent">#8003DAC5</color>
+    <color name="Turquoise_transparent_on">#a003DAC5</color>
+    <color name="grey_transparent">#40000000</color>
+    <color name="grey_transparent_on">#80000000</color>
+    <color name="white_transparent">#40ffffff</color>
+    <color name="white_transparent_on">#80ffffff</color>
+    <color name="red_transparent">#40ff0000</color>
+    <color name="red_transparent_on">#80ff0000</color>
+    <color name="green_transparent">#4000ff00</color>
+    <color name="green_transparent_on">#8000ff00</color>
+    <color name="yellow_transparent">#40ffe153</color>
+    <color name="yellow_transparent_on">#80ffe153</color>
+</resources>
